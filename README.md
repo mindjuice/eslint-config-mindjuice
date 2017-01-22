@@ -3,11 +3,11 @@ This is an extension/modification of the [AirBnB ESLint config](https://github.c
 
 ## Installation
 ### Via `npm`
-```npm install eslint-config-mindjuice --save-dev```
+```npm install --save-dev eslint-config-mindjuice```
 
 ### Via `yarn`
 
-```npm install eslint-config-mindjuice --save-dev```
+```yarn add --dev eslint-config-mindjuice```
 
 
 ## Usage
