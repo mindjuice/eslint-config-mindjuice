@@ -1,17 +1,17 @@
 {
   "name": "eslint-config-mindjuice",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "The ESLint config used by Mind Juice Media.  This is based off of the standard AirBnB rules, but with several modifications.",
   "main": "index.js",
   "author": "Ken Carpenter",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "~14.0.0",
-    "eslint-plugin-import": "~2.2.0",
-    "eslint-plugin-jsx-a11y": "~3.0.2",
-    "eslint-plugin-react": "~6.9.0"
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0"
   },
   "peerDependencies": {
-    "eslint": "~3.14.0"
+    "eslint": "^3.17.1"
   }
 }
